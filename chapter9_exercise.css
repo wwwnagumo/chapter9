@@ -52,26 +52,3 @@ main {
 .title {
   margin: 15px 0 5px;
 }
-@media screen and (max-width:768px) {
-  main {
-  	width: 100%;
-  	padding: 10px;
-  }
-  .step {
-  	float: none;
-  	width: 100%;
-  	margin-bottom: 50px;
-  }
-  .step1-img {
-  	width: 100%;
-  	height: 350px;
-  }
-  .step2-img {
-  	width: 100%;
-  	height: 350px;
-  }
-  .step3-img {
-  	width: 100%;
-  	height: 350px;
-  }
-}
